@@ -1,2 +1,2 @@
 this is file1
-this is a new change
+this is a new change,i dont know it had been changed,and i change it on my workspace
