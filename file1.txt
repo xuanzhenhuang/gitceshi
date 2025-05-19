@@ -1,2 +1,2 @@
 this is file1
-this is a new change，and then i change it again
+this is a new change,i know it had been changed,and i resolve conflicts
